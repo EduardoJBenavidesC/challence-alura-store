@@ -9,6 +9,7 @@ Evaluar el desempeño de 4 tiendas basándose en datos reales de ventas, satisfa
 
 <h3>Metodología de Análisis de Datos</h3>
 Para garantizar la fiabilidad de los resultados, se ejecutó un proceso de validación y limpieza estructurado en las siguientes etapas:
+
 1. Carga y Auditoría de Estructura.
    - Importación de archivos fuente mediante la librería Pandas.
    - Validación de Dimensiones.
